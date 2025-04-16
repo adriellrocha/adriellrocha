@@ -19,26 +19,22 @@
 
    <!-- Distintivos de Linguagens e Habilidades -->
 <div style="display: inline_block" align="center"><br>
-  <img  alt="Adriell-HTML" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
+  <img  alt="Adriell-js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img  alt="Adriell-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">&nbsp;
-  <img  alt="Lari-Ts" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">&nbsp;
-  <img  alt="Lari-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
-  <img  alt="Lari-Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
-  <img  alt="Lari-Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">&nbsp;
-  <img alt="Lari-ReactContext"  src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react">&nbsp;
-  <img  alt="Lari-ReactQuery"  src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white">&nbsp;
-  <img alt="Lari-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
-  <img  alt="Lari-ReactHookForm"  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
-  <img  alt="Lari-Chacra"  src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white">&nbsp;
-  <img alt="Lari-ChartJS"  src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">&nbsp;
-  <img  alt="Lari-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
-  <img alt="Lari-Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">&nbsp;
-  <img  alt="Lari-DjangoRestFrameWork" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">&nbsp;
-  <img  alt="Lari-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;
-  <img  alt="Lari-SpringBoot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp;
-  <img  alt="Lari-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
-  <img  alt="Lari-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img alt="Lari-SQLLIte" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">&nbsp;
+  <img  alt="Adriell-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">&nbsp;
+  <img  alt="Lari-Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">&nbsp;
+  <img  alt="Adriell-.net"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">&nbsp;
+  <img  alt="Adriell-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
+  <img alt="Adriell-ReactRouter"  src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">&nbsp;
+  <img  alt="Adriell-ReactHookForm"  src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white">&nbsp;
+  <img  alt="adriell-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
+  <img  alt="adriell-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
+  <img  alt="Adriell-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img  alt="Adriell-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  <img  alt="Adriell-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
+  <img  alt="Adriell-figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">&nbsp;
+  <img  alt="Adriell-NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
+ 
 </div>
  <br>
 
