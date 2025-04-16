@@ -5,7 +5,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Adriell Rocha
- 👩🏻‍💻 Sou uma desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+ 👨🏽‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
  ⚡ Formada em GTI na FADBA<br>
  <!--👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>-->
 </div>
@@ -30,7 +30,7 @@
   <img  alt="adriell-Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">&nbsp;
   <img  alt="adriell-Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;
   <img  alt="Adriell-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
-  <img  alt="Adriell-SQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;
+  
   <img  alt="Adriell-git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">&nbsp;
   <img  alt="Adriell-figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma">&nbsp;
   <img  alt="Adriell-NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
