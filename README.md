@@ -1,6 +1,6 @@
-<!-- Parte superior da página -->
+<!-- Parte superior da página 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&Theme=tokyonight&height=120&section=header"/>-->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&Theme=tokyonight&height=120&section=header"/>
 
 ---
 <div align="center">
