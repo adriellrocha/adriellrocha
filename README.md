@@ -4,10 +4,10 @@
 ---
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Larissa Albuquerque
- 👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
- ⚡ Formada em SI na UNICAP<br>
- 👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Adriell Rocha
+ 👩🏻‍💻 Sou uma desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
+ ⚡ Formada em GTI na FADBA<br>
+ <!--👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>-->
 </div>
 
 <div align="center">
