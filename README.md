@@ -7,7 +7,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Adriell Rocha
  👨🏽‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
- ⚡ Formada em GTI na FADBA<br>
+ ⚡ Formado em GTI na FADBA<br>
  <!--👩‍🎓 Mestranda em ciências da computação no CIn-UFPE<br>-->
 </div>
 
